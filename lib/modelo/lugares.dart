@@ -1,0 +1,25 @@
+import 'package:latlong2/latlong.dart';
+
+const Map<String, LatLng> lugares = {
+  'Entrada norte (Calle 85)': LatLng(8.794170, -75.860475),
+  'Bloque 21 (Laboratorio de ciencias básicas)': LatLng(8.792377, -75.861146),
+  'Bloque 33': LatLng(8.792308, -75.861789),
+  'Bloque 20 (Agronomía)': LatLng(8.791841, -75.860633),
+  'Bloque 27': LatLng(8.791627, -75.861950),
+  'Bloque 25': LatLng(8.791250, -75.861926),
+  'Bloque 26': LatLng(8.791433, -75.862015),
+  'Bloque 30': LatLng(8.791544, -75.861435),
+  'Bloque 24': LatLng(8.791399, -75.861411),
+  'Bloque 23': LatLng(8.791282, -75.861422),
+  'Bloque 39': LatLng(8.791648, -75.862693),
+  'Cafetería Central': LatLng(8.791173, -75.862363),
+  'Edificio administrativo': LatLng(8.790792, -75.862851),
+  'Auditorio cultural': LatLng(8.790675, -75.863739),
+  'Biblioteca': LatLng(8.790357, -75.862218),
+  'Bioclimático': LatLng(8.789556, -75.859292),
+  'Facultad de educación y ciencias humanas': LatLng(8.789222, -75.859788),
+  'Edificio de informática': LatLng(8.788751, -75.859196),
+  'Zona de estudio 1': LatLng(8.788891, -75.859035),
+  'Zona de estudio 2': LatLng(8.789069, -75.860220),
+  'Edificio de postgrados': LatLng(8.788515, -75.857999),
+};
